@@ -1,3 +1,4 @@
+![Master Image](github-header-image.png)
 ## Hi there 👋
 
 <!--
