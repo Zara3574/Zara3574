@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **zaraarshad713@gmail.com**
 
-- ⚡ Fun fact **I think I am a good Problem solver**
+- ⚡ Fun fact **I am a good Problem solver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zara arshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zara arshad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zara-arshad-883189294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zara arshad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
