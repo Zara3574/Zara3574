@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a **Music Player App** for Android<br>🌱 I’m deepening my expertise in **Mobile App Development** with Kotlin<br>💬 Ask me about **Kotlin, Android development, or UI/UX design**<br>📫 How to reach me: **zaraarshad713@gmail.com**<br>⚡ Fun fact: I love solving complex problems with elegant code solutions
+🔭 I’m currently working on a **AR Drawing App** for Android<br>🌱 I’m deepening my expertise in **Mobile App Development** with Kotlin<br>💬 Ask me about **Kotlin, Android development**<br>📫 How to reach me: **zaraarshad713@gmail.com**<br>⚡ Fun fact: I love solving complex problems with elegant code solutions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zara-arshad-883189294) 
